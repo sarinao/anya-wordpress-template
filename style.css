@@ -1,0 +1,29 @@
+/* 
+Theme Name: Anya
+Author: sarina omidi
+Author URI: #
+Description: قالب فروشگاهی آنیا
+Version: 1.0.0
+Text Domain: Anya
+*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    font-size: 18px;
+    border: 0;
+} 
+.code1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
